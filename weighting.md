@@ -1,1 +1,1 @@
-(Jack, add the weighting code here)
+(Jack, paste the weighting code here)
